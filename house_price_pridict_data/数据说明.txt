@@ -1,0 +1,14 @@
+?	housing_price_index:衡量住宅价格的变化
+?	gross_domestic_product:一个时期内生产的所有最终产品和服务的市场价值的货币计量。
+?	total_expenditures:美国政府支出总额。
+?	producer_price_index:衡量国内生产者对其产出的平均价格变动的价格指数。
+?	total_unemployed:失业人数超过15周的人数。
+?	not_in_labor_searched_for_work:没有劳动力但找工作并可供雇佣的人数
+?	multi_jobs:有多份工作的人数
+?	leavers：自愿辞去一项工作并在其他地方积极就业的人数。
+?	losers：被开除的人数
+?	federal_funds_rate：银行向其他银行提供准备金余额的利率。这是短期利率的衡量标准。
+?	sp500 (S&P 500)：美国股票市场指数，基于市值500大公司普通股股票在纽交所或纳斯达克上市。
+?	consumer_price_index：衡量家庭购买消费品和服务价格水平的变化。
+?	ong_interest_rate：长期利率指10年期债券的收益率。
+
